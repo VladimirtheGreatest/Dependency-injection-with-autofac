@@ -8,9 +8,17 @@ namespace DemoLibrary.Utilities
 {
     public class Logger : ILogger
     {
+
+        IDataAccess _dataAccess;
+
+        public Logger(IDataAccess dataAccess )
+        {
+            _dataAccess = dataAccess;
+        }
         public void Log(string message)
         {
-            Console.WriteLine($"Logging in { message }");
+            Console.WriteLine($"Logging in as { message }");
+            _dataAccess.LoadData();
         }
     }
 }

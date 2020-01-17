@@ -24,11 +24,11 @@ namespace DemoLibrary
             //Logger logger = new Logger();
             //DataAccess dataAccess = new DataAccess();
 
-            _logger.Log("Vladimir");
+            string User = "Vladimir";
+
+            _logger.Log(User);
             Console.WriteLine("Processing the data");
-            _dataAccess.LoadData();
-            _dataAccess.SaveData("ProcessedInfo");
-            _logger.Log("Vladimir");
+            _dataAccess.SaveData($"{User}");
         }
     }
 }
