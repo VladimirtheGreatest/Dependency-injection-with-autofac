@@ -3,3 +3,8 @@ C:\Users\vladimir.doktorov\Desktop\Dependency project\DemoLibrary\bin\Debug\Demo
 C:\Users\vladimir.doktorov\Desktop\Dependency project\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
 C:\Users\vladimir.doktorov\Desktop\Dependency project\DemoLibrary\obj\Debug\DemoLibrary.dll
 C:\Users\vladimir.doktorov\Desktop\Dependency project\DemoLibrary\obj\Debug\DemoLibrary.pdb
+C:\Projects\Dependency project\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Projects\Dependency project\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Projects\Dependency project\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Projects\Dependency project\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Projects\Dependency project\DemoLibrary\obj\Debug\DemoLibrary.pdb

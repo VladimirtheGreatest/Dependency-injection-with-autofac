@@ -7,15 +7,14 @@ using System.Threading.Tasks;
 
 namespace DemoLibrary
 {
-    public class BusinessLogic : IBusinessLogic
+    public class BetterBusinessLogic : IBusinessLogic
     {
-
-        //class level private variables, (field)
+        //class level private variables
         ILogger _logger;
         IDataAccess _dataAccess;
 
         //constructor   this is called constructor injection
-        public BusinessLogic(ILogger logger, IDataAccess dataAccess)
+        public BetterBusinessLogic(ILogger logger, IDataAccess dataAccess)
         {
             _logger = logger;
             _dataAccess = dataAccess;
@@ -25,11 +24,11 @@ namespace DemoLibrary
             //Logger logger = new Logger();
             //DataAccess dataAccess = new DataAccess();
 
-            _logger.Log("Starting the processing of data.");
+            _logger.Log("Vladimir");
             Console.WriteLine("Processing the data");
             _dataAccess.LoadData();
             _dataAccess.SaveData("ProcessedInfo");
-            _logger.Log("Finished processing of the data.");
+            _logger.Log("Vladimir");
         }
     }
 }

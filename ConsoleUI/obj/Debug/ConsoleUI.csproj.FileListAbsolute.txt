@@ -7,3 +7,15 @@ C:\Users\vladimir.doktorov\Desktop\Dependency project\ConsoleUI\obj\Debug\Consol
 C:\Users\vladimir.doktorov\Desktop\Dependency project\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
 C:\Users\vladimir.doktorov\Desktop\Dependency project\ConsoleUI\obj\Debug\ConsoleUI.exe
 C:\Users\vladimir.doktorov\Desktop\Dependency project\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Projects\Dependency project\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Projects\Dependency project\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Projects\Dependency project\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Projects\Dependency project\ConsoleUI\bin\Debug\Autofac.dll
+C:\Projects\Dependency project\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Projects\Dependency project\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Projects\Dependency project\ConsoleUI\bin\Debug\Autofac.pdb
+C:\Projects\Dependency project\ConsoleUI\bin\Debug\Autofac.xml
+C:\Projects\Dependency project\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Projects\Dependency project\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Projects\Dependency project\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Projects\Dependency project\ConsoleUI\obj\Debug\ConsoleUI.pdb
