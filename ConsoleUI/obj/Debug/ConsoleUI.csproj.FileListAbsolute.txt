@@ -1,0 +1,9 @@
+C:\Users\vladimir.doktorov\Desktop\Dependency project\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\vladimir.doktorov\Desktop\Dependency project\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\vladimir.doktorov\Desktop\Dependency project\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\vladimir.doktorov\Desktop\Dependency project\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\vladimir.doktorov\Desktop\Dependency project\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\vladimir.doktorov\Desktop\Dependency project\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\vladimir.doktorov\Desktop\Dependency project\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\vladimir.doktorov\Desktop\Dependency project\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\vladimir.doktorov\Desktop\Dependency project\ConsoleUI\obj\Debug\ConsoleUI.pdb

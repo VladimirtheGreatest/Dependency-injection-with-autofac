@@ -1,0 +1,5 @@
+C:\Users\vladimir.doktorov\Desktop\Dependency project\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\vladimir.doktorov\Desktop\Dependency project\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\vladimir.doktorov\Desktop\Dependency project\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\vladimir.doktorov\Desktop\Dependency project\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\vladimir.doktorov\Desktop\Dependency project\DemoLibrary\obj\Debug\DemoLibrary.pdb
